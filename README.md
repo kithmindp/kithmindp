@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kithmindp&show_icons=true&locale=en" alt="kithmindp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kithmindp&" alt="kithmindp" /></p>
+
+<img src="https://raw.githubusercontent.com/kithmindp/kithmindp/output/snake.svg" alt="Snake animation" />
