@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dilnukap@gmail.com**
 
-- ⚡ Fun fact **Loves to unwind by experimenting with new recipes in the kitchen!**
+- ⚡ Fun fact **Loves to unwind by experimenting with new recipes in the kitchen!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
