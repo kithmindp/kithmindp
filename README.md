@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Kithmin Pathirana</h1>
 <h3 align="center">A passionate full stack, mobile, and UI frontend developer from Sri Lanka.</h3>
 
